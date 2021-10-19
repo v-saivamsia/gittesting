@@ -1,2 +1,4 @@
 hadfasdfkjdsa
 commit 1
+commit 2
+amend 1
